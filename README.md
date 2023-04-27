@@ -1,6 +1,6 @@
 # flutter_screen_event_sample
 
-A new Flutter project.
+各種ライフサイクル／画面遷移イベントを確認するためのサンプルFlutterプロジェクト
 
 ## Getting Started
 
